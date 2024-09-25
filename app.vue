@@ -179,15 +179,6 @@
       </div>
     </div>
   </div>
-
-  <div class="mt-6 flex justify-center">
-    <a href="https://github.com/Rggagilang01" class="inline-block mx-2">
-      <i class="fab fa-github text-2xl"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/tubagus-rangga-gilang-yanuari-113aab288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="inline-block mx-2">
-      <i class="fab fa-linkedin text-2xl"></i>
-    </a>
-  </div>
 </section>
   </div>
 </template>
