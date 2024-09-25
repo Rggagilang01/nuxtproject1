@@ -154,6 +154,14 @@
           <i class="fab fa-facebook text-2xl mr-2"></i>
           <a href="https://facebook.com/ranggagilang" class="text-yellow-400">Rangga Gilang</a>
         </div>
+        <div class="flex items-center justify-start">
+          <i class="fab fa-github text-2xl mr-2"></i>
+          <a href="https://github.com/Rggagilang01" class="text-yellow-400">Github</a>
+        </div>
+        <div class="flex items-center justify-start">
+          <i class="fab fa-linkedin text-2xl"></i>
+          <a href="https://www.linkedin.com/in/tubagus-rangga-gilang-yanuari-113aab288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="inline-block mx-2 text-yellow-400">LinkedIn</a>
+        </div>
       </div>
     </div>
 
@@ -173,10 +181,10 @@
   </div>
 
   <div class="mt-6 flex justify-center">
-    <a href="https://github.com/Rggagilang01" target="_blank" class="inline-block mx-2">
+    <a href="https://github.com/Rggagilang01" class="inline-block mx-2">
       <i class="fab fa-github text-2xl"></i>
     </a>
-    <a href="https://www.linkedin.com/in/tubagus-rangga-gilang-yanuari-113aab288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="inline-block mx-2">
+    <a href="https://www.linkedin.com/in/tubagus-rangga-gilang-yanuari-113aab288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="inline-block mx-2">
       <i class="fab fa-linkedin text-2xl"></i>
     </a>
   </div>
